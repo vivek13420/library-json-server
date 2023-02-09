@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165Mn67NEL.jpg",
+      "book_name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "romance",
+      "edition": "2020",
+      "publisher": "Thomas Egerton",
+      "cost": 899,
+      "borrowed": false
+    },
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165Zh67NEL.jpg",
+      "book_name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "J. B. Lippincott & Co.",
+      "cost": 799,
+      "borrowed": false
+    }
+  ]
+}
